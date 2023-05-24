@@ -2481,7 +2481,7 @@
   (symbol (lib_id "Device:D_Small") (at 85.09 91.44 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 39d0cdd3-c21f-4886-958b-1deb8ee3abed)
-    (property "Reference" "D14" (at 87.63 90.17 90)
+    (property "Reference" "D13" (at 87.63 90.17 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D0-35" (at 87.63 92.71 90)
@@ -2504,7 +2504,7 @@
     (instances
       (project "keyboard"
         (path "/813355d2-a0c5-4cf8-b46c-27b8fe109cb3"
-          (reference "D14") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
     )
@@ -2977,7 +2977,7 @@
   (symbol (lib_id "Device:D_Small") (at 85.09 167.64 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 58ed77e7-6775-4135-a8e2-c1546db19790)
-    (property "Reference" "D13" (at 87.63 166.37 90)
+    (property "Reference" "D17" (at 87.63 166.37 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D0-35" (at 87.63 168.91 90)
@@ -3000,7 +3000,7 @@
     (instances
       (project "keyboard"
         (path "/813355d2-a0c5-4cf8-b46c-27b8fe109cb3"
-          (reference "D13") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -4209,7 +4209,7 @@
   (symbol (lib_id "Device:D_Small") (at 85.09 129.54 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8185447-670e-4767-bf68-7a61b6b53696)
-    (property "Reference" "D16" (at 87.63 128.27 90)
+    (property "Reference" "D15" (at 87.63 128.27 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D0-35" (at 87.63 130.81 90)
@@ -4232,7 +4232,7 @@
     (instances
       (project "keyboard"
         (path "/813355d2-a0c5-4cf8-b46c-27b8fe109cb3"
-          (reference "D16") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -4479,7 +4479,7 @@
   (symbol (lib_id "Device:D_Small") (at 85.09 148.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c77571b9-05c3-4e42-b730-88c8705f3f41)
-    (property "Reference" "D17" (at 87.63 147.32 90)
+    (property "Reference" "D16" (at 87.63 147.32 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D0-35" (at 87.63 149.86 90)
@@ -4502,7 +4502,7 @@
     (instances
       (project "keyboard"
         (path "/813355d2-a0c5-4cf8-b46c-27b8fe109cb3"
-          (reference "D17") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -5390,7 +5390,7 @@
   (symbol (lib_id "Device:D_Small") (at 85.09 110.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f3ba9928-1f10-4edc-bbca-fc990551ed30)
-    (property "Reference" "D15" (at 87.63 109.22 90)
+    (property "Reference" "D14" (at 87.63 109.22 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D0-35" (at 87.63 111.76 90)
@@ -5413,7 +5413,7 @@
     (instances
       (project "keyboard"
         (path "/813355d2-a0c5-4cf8-b46c-27b8fe109cb3"
-          (reference "D15") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
