@@ -1,0 +1,6 @@
+- [Matrices and Duplex Matrix](https://wiki.ai03.com/link/7#bkmrk-page-title)
+- [Keyboard matrix basics](https://golem.hu/guide/keyboard-matrix/)
+- [Duplex matrix](https://golem.hu/guide/duplex-matrix/)
+- [The Japanese (duplex) matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html)
+- [Square or round-robin matrix](https://kbd.news/Square-or-round-robin-matrix-1400.html)
+- [PCB Designer Guide by ai03](https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide)
